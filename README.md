@@ -36,7 +36,7 @@ Use lambdas when:
 ✅ You're replacing anonymous classes with only one method
 
 
-⚠️ When NOT to use Lambdas
+⚠️ When NOT to use Lambdas:
 🚫 When the logic is complex and requires multiple methods or state
 🚫 When the interface has more than one abstract method
 🚫 When clarity and debugging are more important than conciseness
