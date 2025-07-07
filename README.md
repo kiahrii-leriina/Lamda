@@ -1,4 +1,4 @@
-After learning anonymous class, we know the easier way to implemet a functional interface(an interface wiht ony one abstract method) is using lamda.
+After learning anonymous class, we know the easier way to implemet a functional interface(an interface with ony one abstract method) is using lamda.
 
 🔹 What is a Lambda Expression?
 A lambda expression is a short and concise way to implement functional interfaces (interfaces with only one abstract method, using @FunctionalInterface is recomended), introduced in Java 8.
